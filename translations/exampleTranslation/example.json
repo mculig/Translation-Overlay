@@ -1,0 +1,90 @@
+{
+	"language": "exampleLang",
+	"shorthand": "ex",
+	"translations":[
+		{
+			"original": "<ph>...<ph>! Still sleeping? Come on, wakey wakey!",
+			"translation": "<ph>...<ph>! Schläfst du noch? Komm schon, wach auf!"
+		},
+		{
+			"original": "Good morning, <ph>!",
+			"translation": "Morgen, <ph>!"
+		},
+		{
+			"original": "Well, you better wake up fast. They're all waiting for you!",
+			"translation": "Wache schnell auf. Alle warten auf dich!"
+		},
+		{
+			"original": "Ha ha ha! You sleepyhead, you really don't remember what day it is?'",
+			"translation": "Ha ha ha! Du Schlafkopf, hast du wirklich vergessen welcher Tag es heute ist?"
+		},
+		{
+			"original": "Today? It's...oh!'",
+			"translation": "Heute? Ach ja!"
+		},
+		{
+			"original": "Today is my Apprentice's Eve!",
+			"translation": "Heute ist mein Lehrlingstag!"
+		},
+		{
+			"original": "Ha ha! Exactly, my dear. Congratulations!",
+			"translation": "Ha ha! Genau, Liebling. Glückwünsch!"
+		},
+		{
+			"original": "And here is your Apprentice's Eve present!",
+			"translation": "Hier ist dein Lehrlingstagsgeschenk!"
+		},
+		{
+			"original": "You're an Apprentice now! Soon you'll be heading to the Accademia, so I figure you'll need a good Tempedia.",
+			"translation": "Du bist jetzt ein Lehling! Bald wirst du in die Akademie gehen, also brauchst du eine gute Tempedia."
+		},
+		{
+			"original": "I love you too, <ph>!",
+			"translation": "Ich liebe dich auch, <ph>!"
+		},
+		{
+			"original": "So, do you know how it works?",
+			"translation": "Also, weißt du wie es funktioniert?"
+		},
+		{
+			"original": "Yes - the Tempedia lists all the Temtem I capture and stores info about them. Prof. Konstantinos showed us how to use his.",
+			"translation": "Ja - die Tempedia zeigt alle Temtem die ich gefangen habe und speichert ihre daten. Prof. Konstantinos hat uns gezeigt."
+		},
+		{
+			"original": "And now you have your own! Well, hurry up! They're all waiting for you!",
+			"translation": "Und jetzt hast du deine eigene! Beeile dich! Alle warten auf dich!"
+		},
+		{
+			"original": "It's <ph>! Congrats!",
+			"translation": "Es ist <ph>! Glückwünsch!"
+		},
+		{
+			"original": "Happy Apprentice's Eve, <ph>!",
+			"translation": "Froher Lehrlingstag, <ph>!"
+		},
+		{
+			"original": "Oh my, all of Zadar is here!",
+			"translation": "Ah du meine Güte, ganz Zadar ist hier!"
+		},
+		{
+			"original": "Congratulations, <ph>! We know this is a big day for you, but... we're also going to miss you...",
+			"translation": "Glückwünsch, <ph>! Wir wissen das heute ein großer Tag für dich ist, aber...du wirst uns fehlen..."
+		},
+		{
+			"original": "We got you a little pocket money for the trip to the Accademia. It's not much, but we've all chipped in",
+			"translation": "Wir haben ein bisschen geld für deine Reise zur Akademie gesamelt. Es ist nicht viel, aber wir haben alle beigetragen."
+		},
+		{
+			"original": "Oh, that's lovely! Thank you so much, my dear neighbours! But <ph>, where is your friend Max?",
+			"translation": "Oh, das ist schön! Vielen dank, meine lieben Nachbarn! Aber <ph>, wo ist dein Freund Max?"
+		},
+		{
+			"original": "Anyone calling? Oh, hey <ph>. Did you know it's my Apprentice's Eve too?",
+			"translation": "Hat mich wer gerufen? Oh, hey <ph>. Hast du gewusst das es auch mein Lehrlingstag ist?"
+		},
+		{
+			"original": "Hello Max! We are waiting for Prof. Konstantinos...",
+			"translation": "Hallo Max! Wir warten auf Prof. Konstantinos..."
+		}
+	]
+}

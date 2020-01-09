@@ -1,0 +1,7 @@
+{
+	language: "exampleLang",
+	minTranslateScore: 0.5,
+	placeholderTag="<ph>",
+	OCRLoopDelay: 0,
+	OCRLoopRefresh: 250
+}
