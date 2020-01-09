@@ -3,5 +3,7 @@
 	minTranslateScore: 0.5,
 	placeholderTag="<ph>",
 	OCRLoopDelay: 0,
-	OCRLoopRefresh: 250
+	OCRLoopRefresh: 250,
+	outputWindowWidth: 800,
+	outputWindowHeight: 200
 }

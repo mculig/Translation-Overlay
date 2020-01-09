@@ -17,10 +17,10 @@ public class OCRLoop extends TimerTask{
 	private Tesseract tesseract;
 	private String language = "eng";
 	
-	OCRTextWindow textWindow;
+	OutputWindow textWindow;
 	Rectangle OCRViewport;
 	
-	public OCRLoop(Rectangle OCRViewport, OCRTextWindow textWindow, CrowdTranslator trans){
+	public OCRLoop(Rectangle OCRViewport, OutputWindow textWindow, CrowdTranslator trans){
 		this.textWindow = textWindow;
 		this.OCRViewport = OCRViewport;
 		this.trans=trans;

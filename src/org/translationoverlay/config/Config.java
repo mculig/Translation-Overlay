@@ -7,5 +7,7 @@ public class Config {
 	public String placeholderTag;
 	public long OCRLoopDelay;
 	public long OCRLoopRefresh;
+	public int outputWindowWidth;
+	public int outputWindowHeight;
 	
 }

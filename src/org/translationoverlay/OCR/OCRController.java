@@ -19,9 +19,9 @@ public class OCRController {
 	//Reference to the main window used to get the viewport for OCR
 	private MainWindow mainWindow=null;
 	//Reference to the OCR Text Window where the results are displayed
-	private OCRTextWindow textWindow;
+	private OutputWindow textWindow;
 
-	public OCRController(MainWindow mainWindow, OCRTextWindow textWindow, CrowdTranslator trans, Config config) {
+	public OCRController(MainWindow mainWindow, OutputWindow textWindow, CrowdTranslator trans, Config config) {
 		this.mainWindow = mainWindow;
 		this.textWindow = textWindow;
 		this.trans = trans;
